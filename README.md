@@ -9,3 +9,4 @@
 
 ## References
 - [Initial code inspiration](http://sukhbinder.wordpress.com/2014/01/29/from-this-to-that-stl-viewer-app-update/)
+- https://www2.gosculptor.com/Sculptor_Doc/contents/contents.html
